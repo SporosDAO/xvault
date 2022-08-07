@@ -10,6 +10,7 @@ Multi-chain DAO vault that has the same address on ETH L1 and EVM equivalent L2s
   - Receiving funds in a DAO's main contract address also leads to lost funds. If the DAO contract is deployed on Arbitrbum One and donors send funds to L1 or another L2, there is no way for the DAO to control these funds.
   - Real world example: https://gitcoin.co/grants/6035/sweat-equity-management-platform-for-daos
     - Funds from the example above were sent to the correct DAO address `0x28feac06dc72188b385478b507f7c7a39a7026d5` but not on the DAO native chain where the [DAO smart contract was deployed (Arbitrum One)](0x28feac06dc72188b385478b507f7c7a39a7026d5). Instead funds were sent to L1, zkSync and Polygon. None of the funds can be accessed by the DAO now.
+2. [LexDAO discussion](https://discord.com/channels/682960432272506907/900411400491524106/998084170666475520) on shuffling funds from multi-sigs to DAO governed contracts on multiple chains.
 
 2. [Optimism to Wintermute transaction lost 20M](https://cryptobriefing.com/wintermute-makes-optimistic-assumption-loses-20m-optimism-tokens/).
 
