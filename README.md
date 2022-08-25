@@ -2,7 +2,7 @@
 
 Multi-chain DAO vault that provides a deterministic address on ETH L1 and EVM equivalent L2s (Arbitrum One, Optimism, etc.). Allows DAOs to deploy xVault across multipl chains with the exact same deployment address. Consequently DAOs can receive funds on the same xVault address across multiple chains and control the funds in each vault from their main Kali smart contract deployment on an ETH L1 or EVM-equivalent L2 chain.
 
-It provides DAOs with direct control of their assets plus the convenience of Extenally Owned Accounts (e.g. MetaMask or Ledger wallet account) but without the liability associated with individual and multisig custodians of DAO assets.
+It provides DAOs with direct control of their assets using a single convenient address, similar to Extenally Owned Accounts created via in MetaMask or Ledger wallets, but without the liability associated with individual and multisig custodians of DAO assets.
 
 # User Stories:
 
