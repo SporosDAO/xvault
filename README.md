@@ -18,4 +18,4 @@ It provides DAOs with direct control of their assets using a single convenient a
 
 # Design
 
-Working draft of [xVault design doc here](https://github.com/SporosDAO/sweat-token/wiki/xVault:-Multi-chain-DAO-Treasury-Vault).
+Working draft of [xVault design doc here](https://github.com/SporosDAO/sweat-token/wiki/xVault%3A-Omnichain-DAO-Treasury).
